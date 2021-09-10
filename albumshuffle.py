@@ -1,4 +1,4 @@
 
 albumlist = []
 
-s
+input("this is test")
